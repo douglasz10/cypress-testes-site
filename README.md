@@ -1,5 +1,5 @@
 # cypress-testes-site
-Essa aplicação de Testes Automatizados servirá como auxílio no aprendizado para testes e2e utilizando Cypress com Cucumber.Criei os cenários utilizando o site de Automação com Batista.
+Essa aplicação de Testes Automatizados servirá como auxílio no aprendizado para testes e2e utilizando Cypress com Cucumber. Criei os cenários utilizando o site de Automação com Batista.
 
 Primeiramente criamos um novo repositório e iniciarmos com $npm init.
 
